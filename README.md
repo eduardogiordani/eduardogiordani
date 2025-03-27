@@ -1,7 +1,7 @@
 ## Bem vindo ao meu Git.
 
 🎓 **Sobre mim**  
-"Me chamo Eduardo, sou estudante do curso de Sistemas de Informação, aficionado por tecnologia e por aprofundar meus conhecimentos na área de TI. Tenho interesse em diversos temas como  front e back-end, programação, redes, web, UI e UX."
+"Me chamo Eduardo, sou estudante do curso de Sistemas de Informação, aficionado por tecnologia e por aprofundar meus conhecimentos na área de TI. Tenho interesse em diversos tanto em front como back-end, desenvolvimento, web, UI e UX"
 
 💻 **Tecnologias e Ferramentas**  
 - **Linguagens:** C, Python, Java, HTML/CSS

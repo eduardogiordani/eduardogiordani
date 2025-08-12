@@ -1,4 +1,4 @@
-## Bem vindo ao meu Git.
+## Bem vindo
 
 🎓 **Sobre mim**  
 "Me chamo Eduardo, sou estudante do curso de Sistemas de Informação, aficionado por tecnologia e por aprofundar meus conhecimentos na área de TI. Tenho interesses diversos tanto em front como em back-end, desenvolvimento, web, UI e UX"
